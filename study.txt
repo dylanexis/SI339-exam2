@@ -1,0 +1,33 @@
+Viewing deployed page vs source code.
+
+To view the deployed page, the link should look something like: https://dylanexis.github.io/CPD3_Final/index.html
+Notice the /index.html
+
+
+Advanced CSS
+ -Specificity
+    ID > class > name
+
+ -Combinators
+    Child (>): Targets any direct children
+    Descendent( ): Targets any matching descendents within an element
+    Next-sibling(+): Targets an element that is placed immediately after another specific element
+    Selecotr list(,): Targets all matching elements separated by a comma
+    
+ -Box Model
+
+ -Display
+    block: element takes up full width available
+    inline: element takes up as much space as needed
+    none: hides element
+    flex and grid: layout systems for arranging elements in containers
+ 
+ -Pseudo-classes: Used to add styles to selectors, but only when those selectors meet certain conditions
+    :hover -> selects element on mouse over
+    :focus -> selects the element that gets focus. mostly form elements
+    :visited -> changes style when link has been clicked on/visited
+    :active -> selects the active link
+
+
+    
+    
